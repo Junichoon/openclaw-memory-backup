@@ -1,0 +1,248 @@
+[
+  {
+    "id": 0,
+    "content": "今天的美金匯率查詢",
+    "timestamp": "2026-02-03T22:58:39.829493",
+    "metadata": {
+      "category": "finance",
+      "date": "2026-02-03"
+    }
+  },
+  {
+    "id": 1,
+    "content": "南纖是我們的供應商，需要聯絡",
+    "timestamp": "2026-02-03T22:58:39.830700",
+    "metadata": {
+      "category": "supplier",
+      "contact": "1021南纖"
+    }
+  },
+  {
+    "id": 2,
+    "content": "久立美預計2/10下午2點半來訪",
+    "timestamp": "2026-02-03T22:58:39.830784",
+    "metadata": {
+      "category": "visit",
+      "date": "2026-02-10",
+      "time": "14:30"
+    }
+  },
+  {
+    "id": 3,
+    "content": "長虹異常單結帳",
+    "timestamp": "2026-02-03T22:58:39.830851",
+    "metadata": {
+      "category": "accounting",
+      "status": "pending"
+    }
+  },
+  {
+    "id": 4,
+    "content": "查詢南纖BH216*1020mm*3000M*1R是否有現貨",
+    "timestamp": "2026-02-03T22:58:39.830938",
+    "metadata": {
+      "category": "inventory",
+      "product": "BH216*1020mm*3000M*1R",
+      "supplier": "南纖"
+    }
+  },
+  {
+    "id": 5,
+    "content": "2/6前回覆詢料進度",
+    "timestamp": "2026-02-03T22:58:39.831014",
+    "metadata": {
+      "category": "followup",
+      "deadline": "2026-02-06"
+    }
+  },
+  {
+    "id": 6,
+    "content": "華紙對帳單匯款費告知給宜瑾",
+    "timestamp": "2026-02-03T22:58:39.831080",
+    "metadata": {
+      "category": "accounting",
+      "person": "宜瑾",
+      "company": "華紙"
+    }
+  },
+  {
+    "id": 7,
+    "content": "群佳、正聚、南亞、南纖需要聯絡",
+    "timestamp": "2026-02-03T22:58:39.831140",
+    "metadata": {
+      "category": "contacts",
+      "status": "pending"
+    }
+  },
+  {
+    "id": 8,
+    "content": "3012南亞需要對帳單",
+    "timestamp": "2026-02-03T22:58:39.831237",
+    "metadata": {
+      "category": "accounting",
+      "client": "3012南亞",
+      "status": "pending"
+    }
+  },
+  {
+    "id": 9,
+    "content": "貫婷HTKT75J#1R改善報告",
+    "timestamp": "2026-02-03T22:58:39.831300",
+    "metadata": {
+      "category": "reports",
+      "project": "HTKT75J#1R",
+      "person": "貫婷"
+    }
+  },
+  {
+    "id": 10,
+    "content": "YCPW78找華紙要報告",
+    "timestamp": "2026-02-03T22:58:39.831362",
+    "metadata": {
+      "category": "reports",
+      "project": "YCPW78",
+      "supplier": "華紙"
+    }
+  },
+  {
+    "id": 11,
+    "content": "對帳單尚未收到",
+    "timestamp": "2026-02-03T22:59:37.768650",
+    "metadata": {
+      "category": "finance",
+      "status": "pending",
+      "type": "invoice"
+    }
+  },
+  {
+    "id": 12,
+    "content": "華紙對帳單匯款費告知給宜瑾，每月1號，若遇假日延後至週一",
+    "timestamp": "2026-02-03T22:59:37.768755",
+    "metadata": {
+      "category": "finance",
+      "type": "recurring_task",
+      "person": "宜瑾",
+      "company": "華紙"
+    }
+  },
+  {
+    "id": 13,
+    "content": "1015 群佳待聯絡",
+    "timestamp": "2026-02-03T22:59:37.768854",
+    "metadata": {
+      "category": "contacts",
+      "status": "pending",
+      "client_id": "1015",
+      "client_name": "群佳"
+    }
+  },
+  {
+    "id": 14,
+    "content": "2013 正聚待聯絡",
+    "timestamp": "2026-02-03T22:59:37.768983",
+    "metadata": {
+      "category": "contacts",
+      "status": "pending",
+      "client_id": "2013",
+      "client_name": "正聚"
+    }
+  },
+  {
+    "id": 15,
+    "content": "1021 南纖供應商待聯絡",
+    "timestamp": "2026-02-03T22:59:37.769107",
+    "metadata": {
+      "category": "supplier",
+      "status": "pending",
+      "supplier_id": "1021",
+      "supplier_name": "南纖"
+    }
+  },
+  {
+    "id": 16,
+    "content": "3012 南亞待提供對帳單",
+    "timestamp": "2026-02-03T22:59:37.769188",
+    "metadata": {
+      "category": "finance",
+      "status": "pending",
+      "client_id": "3012",
+      "client_name": "南亞"
+    }
+  },
+  {
+    "id": 17,
+    "content": "貫婷 HTKT75J#1R 穎昌需要改善報告",
+    "timestamp": "2026-02-03T22:59:37.769270",
+    "metadata": {
+      "category": "reports",
+      "project": "HTKT75J#1R",
+      "person": "貫婷",
+      "type": "improvement_report"
+    }
+  },
+  {
+    "id": 18,
+    "content": "YCPW78 找華紙要報告",
+    "timestamp": "2026-02-03T22:59:37.769332",
+    "metadata": {
+      "category": "reports",
+      "project": "YCPW78",
+      "supplier": "華紙",
+      "type": "report_request"
+    }
+  },
+  {
+    "id": 19,
+    "content": "久立美預計來訪時間 2/10 下午2點半",
+    "timestamp": "2026-02-03T22:59:37.769393",
+    "metadata": {
+      "category": "schedule",
+      "event": "visit",
+      "client": "久立美",
+      "date": "2026-02-10",
+      "time": "14:30"
+    }
+  },
+  {
+    "id": 20,
+    "content": "小珮小橘燈 Facebook 分享連結 https://www.facebook.com/share/r/1AuRhJPWWq/?mibextid=wwXIfr",
+    "timestamp": "2026-02-03T22:59:37.769507",
+    "metadata": {
+      "category": "social_media",
+      "person": "小珮",
+      "platform": "facebook",
+      "type": "link"
+    }
+  },
+  {
+    "id": 21,
+    "content": "長虹異常單結帳",
+    "timestamp": "2026-02-03T22:59:37.769616",
+    "metadata": {
+      "category": "accounting",
+      "company": "長虹",
+      "type": "exception_billing"
+    }
+  },
+  {
+    "id": 22,
+    "content": "查詢南纖 BH216*1020mm*3000M*1R 是否有現貨",
+    "timestamp": "2026-02-03T22:59:37.769686",
+    "metadata": {
+      "category": "inventory",
+      "supplier": "南纖",
+      "product": "BH216*1020mm*3000M*1R",
+      "type": "stock_inquiry"
+    }
+  },
+  {
+    "id": 23,
+    "content": "2/6前回覆詢料進度",
+    "timestamp": "2026-02-03T22:59:37.769752",
+    "metadata": {
+      "category": "followup",
+      "deadline": "2026-02-06",
+      "type": "progress_update"
+    }
+  }
+]
