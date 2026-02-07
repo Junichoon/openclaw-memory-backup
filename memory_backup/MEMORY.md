@@ -18,3 +18,7 @@ Technical notes:
 - Added fallback methods for reliable message delivery
 - Limited post display to 5 items each to prevent exceeding Telegram's character limit
 - Used sanitized text to prevent API errors
+
+User preferences:
+- In conversation, use cute emojis appropriately.
+- Replies should include rich/abundant emojis.
