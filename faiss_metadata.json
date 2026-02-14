@@ -1,0 +1,804 @@
+[
+  {
+    "id": 0,
+    "content": "今天的美金匯率查詢",
+    "timestamp": "2026-02-07T22:58:39",
+    "metadata": {
+      "category": "finance",
+      "completed": true,
+      "date": "2026-03-02",
+      "status": "done",
+      "tags": [
+        "必做"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:32:03"
+  },
+  {
+    "id": 1,
+    "content": "南纖是我們的供應商，需要聯絡",
+    "timestamp": "2026-02-03T22:58:39.830700",
+    "metadata": {
+      "category": "supplier",
+      "contact": "1021南纖"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T00:30:09"
+  },
+  {
+    "id": 2,
+    "content": "久立美預計2/10下午2點半來訪",
+    "timestamp": "2026-02-03T22:58:39.830784",
+    "metadata": {
+      "category": "visit",
+      "date": "2026-02-10",
+      "time": "14:30"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-04T08:53:39.021124"
+  },
+  {
+    "id": 3,
+    "content": "長虹異常單結帳",
+    "timestamp": "2026-02-03T22:58:39.830851",
+    "metadata": {
+      "category": "accounting",
+      "status": "pending"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T08:43:18.641456"
+  },
+  {
+    "id": 4,
+    "content": "查詢南纖BH216*1020mm*3000M*1R是否有現貨",
+    "timestamp": "2026-02-03T22:58:39.830938",
+    "metadata": {
+      "category": "inventory",
+      "product": "BH216*1020mm*3000M*1R",
+      "supplier": "南纖"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:37:36"
+  },
+  {
+    "id": 5,
+    "content": "2/6前回覆詢料進度",
+    "timestamp": "2026-02-03T22:58:39.831014",
+    "metadata": {
+      "category": "followup",
+      "deadline": "2026-02-06"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T08:54:42.691602"
+  },
+  {
+    "id": 6,
+    "content": "華紙對帳單匯款費告知給宜瑾",
+    "timestamp": "2026-02-03T22:58:39.831080",
+    "metadata": {
+      "category": "accounting",
+      "person": "宜瑾",
+      "company": "華紙"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-04T08:38:42.770801"
+  },
+  {
+    "id": 7,
+    "content": "群佳、正聚、南亞、南纖需要聯絡",
+    "timestamp": "2026-02-03T22:58:39.831140",
+    "metadata": {
+      "category": "contacts",
+      "status": "pending"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:35:06"
+  },
+  {
+    "id": 8,
+    "content": "3012南亞需要對帳單",
+    "timestamp": "2026-02-03T22:58:39.831237",
+    "metadata": {
+      "category": "accounting",
+      "client": "3012南亞",
+      "status": "pending"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-04T08:38:42.770821"
+  },
+  {
+    "id": 9,
+    "content": "貫婷HTKT75J#1R改善報告",
+    "timestamp": "2026-02-07T21:37:30",
+    "metadata": {
+      "category": "reports",
+      "person": "貫婷",
+      "project": "HTKT75J#1R",
+      "tags": [
+        "品保"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T21:39:07"
+  },
+  {
+    "id": 10,
+    "content": "YCPW78找華紙要報告",
+    "timestamp": "2026-02-10T08:51:59",
+    "metadata": {
+      "category": "reports",
+      "completed": true,
+      "project": "YCPW78",
+      "status": "done",
+      "supplier": "華紙",
+      "tags": [
+        "品保"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T08:52:01"
+  },
+  {
+    "id": 11,
+    "content": "對帳單尚未收到",
+    "timestamp": "2026-02-03T22:59:37.768650",
+    "metadata": {
+      "category": "finance",
+      "status": "pending",
+      "type": "invoice"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:37:38"
+  },
+  {
+    "id": 12,
+    "content": "華紙對帳單匯款費告知給宜瑾，每月1號，若遇假日延後至週一",
+    "timestamp": "2026-02-07T22:59:40",
+    "metadata": {
+      "category": "finance",
+      "company": "華紙",
+      "completed": true,
+      "person": "宜瑾",
+      "status": "done",
+      "tags": [
+        "結帳"
+      ],
+      "type": "recurring_task",
+      "date": "2026-03-02"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T08:52:05"
+  },
+  {
+    "id": 13,
+    "content": "1015 群佳待聯絡",
+    "timestamp": "2026-02-03T22:59:37.768854",
+    "metadata": {
+      "category": "contacts",
+      "status": "pending",
+      "client_id": "1015",
+      "client_name": "群佳"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:35:20"
+  },
+  {
+    "id": 14,
+    "content": "2013 正聚待聯絡",
+    "timestamp": "2026-02-03T22:59:37.768983",
+    "metadata": {
+      "category": "contacts",
+      "status": "pending",
+      "client_id": "2013",
+      "client_name": "正聚"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:35:18"
+  },
+  {
+    "id": 15,
+    "content": "1021 南纖供應商待聯絡",
+    "timestamp": "2026-02-03T22:59:37.769107",
+    "metadata": {
+      "category": "supplier",
+      "status": "pending",
+      "supplier_id": "1021",
+      "supplier_name": "南纖"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:35:23"
+  },
+  {
+    "id": 16,
+    "content": "3012 南亞待提供對帳單",
+    "timestamp": "2026-02-07T21:37:59",
+    "metadata": {
+      "category": "finance",
+      "client_id": "3012",
+      "client_name": "南亞",
+      "status": "pending",
+      "tags": [
+        "結帳"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:30:05"
+  },
+  {
+    "id": 17,
+    "content": "貫婷 HTKT75J#1R 穎昌需要改善報告",
+    "timestamp": "2026-02-09T09:14:15",
+    "metadata": {
+      "category": "reports",
+      "person": "貫婷",
+      "project": "HTKT75J#1R",
+      "tags": [
+        "品保"
+      ],
+      "type": "improvement_report",
+      "completed": true,
+      "status": "done"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-09T09:14:24"
+  },
+  {
+    "id": 18,
+    "content": "YCPW78 找華紙要報告",
+    "timestamp": "2026-02-03T22:59:37.769332",
+    "metadata": {
+      "category": "reports",
+      "project": "YCPW78",
+      "supplier": "華紙",
+      "type": "report_request"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T21:53:47"
+  },
+  {
+    "id": 19,
+    "content": "久立美預計來訪時間 2/10 下午2點半",
+    "timestamp": "2026-02-03T22:59:37.769393",
+    "metadata": {
+      "category": "schedule",
+      "event": "visit",
+      "client": "久立美",
+      "date": "2026-02-10",
+      "time": "14:30"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-04T08:53:39.021105"
+  },
+  {
+    "id": 20,
+    "content": "小珮小橘燈 Facebook 分享連結 https://www.facebook.com/share/r/1AuRhJPWWq/?mibextid=wwXIfr",
+    "timestamp": "2026-02-07T22:02:15",
+    "metadata": {
+      "category": "social_media",
+      "person": "小珮",
+      "platform": "facebook",
+      "type": "link",
+      "tags": [
+        "家人"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "content": "長虹異常單結帳",
+    "timestamp": "2026-02-03T22:59:37.769616",
+    "metadata": {
+      "category": "accounting",
+      "company": "長虹",
+      "type": "exception_billing"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T08:43:18.641476"
+  },
+  {
+    "id": 22,
+    "content": "查詢南纖 BH216*1020mm*3000M*1R 是否有現貨",
+    "timestamp": "2026-02-03T22:59:37.769686",
+    "metadata": {
+      "category": "inventory",
+      "supplier": "南纖",
+      "product": "BH216*1020mm*3000M*1R",
+      "type": "stock_inquiry"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:37:47"
+  },
+  {
+    "id": 23,
+    "content": "2/6前回覆詢料進度",
+    "timestamp": "2026-02-03T22:59:37.769752",
+    "metadata": {
+      "category": "followup",
+      "deadline": "2026-02-06",
+      "type": "progress_update"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T18:54:41.635838"
+  },
+  {
+    "id": 24,
+    "content": "06:34 - Telegram 備忘: 備忘",
+    "timestamp": "2026-02-04T06:36:42.087620",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-04",
+      "source": "telegram"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-04T08:39:11.109391"
+  },
+  {
+    "id": 25,
+    "content": "大洋靜電膜要樣捲測試",
+    "timestamp": "2026-02-07T22:02:07",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-04",
+      "source": "telegram",
+      "time": "08:33",
+      "tags": [
+        "李總"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "content": "光群備庫案追蹤，待回覆",
+    "timestamp": "2026-02-04T09:17:33.085354",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-04",
+      "source": "telegram",
+      "time": "09:17"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-05T10:28:52.277505"
+  },
+  {
+    "id": 27,
+    "content": "冠好科技訂單 - 產品: KBH216 07501220041KG        A, 狀態: å¾æè£½, 數量: 1,050.4",
+    "timestamp": "2026-02-04T09:22:32.742921",
+    "metadata": {
+      "category": "order_tracking",
+      "date": "2026-02-04",
+      "source": "excel_upload",
+      "customer": "KHKC",
+      "status": "å¾æè£½"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:35:34"
+  },
+  {
+    "id": 28,
+    "content": "冠好科技訂單 - 產品: KBH216 07501090040KG        A, 狀態: å¾æè£½, 數量: 1,831.2",
+    "timestamp": "2026-02-04T09:22:32.766556",
+    "metadata": {
+      "category": "order_tracking",
+      "date": "2026-02-04",
+      "source": "excel_upload",
+      "customer": "KHKC",
+      "status": "å¾æè£½"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:35:32"
+  },
+  {
+    "id": 29,
+    "content": "冠好科技訂單 - 產品: KBH216 07501000041KG        A, 狀態: å¾æè£½, 數量: 430.5",
+    "timestamp": "2026-02-04T09:22:32.787330",
+    "metadata": {
+      "category": "order_tracking",
+      "date": "2026-02-04",
+      "source": "excel_upload",
+      "customer": "KHKC",
+      "status": "å¾æè£½"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T23:37:57"
+  },
+  {
+    "id": 30,
+    "content": "宇春PU26010050 SC、LC待確認",
+    "timestamp": "2026-02-04T13:18:57.511954",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-04",
+      "source": "telegram",
+      "time": "13:18"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T18:54:41.635858"
+  },
+  {
+    "id": 31,
+    "content": "單價確認，先下單，待核價",
+    "timestamp": "2026-02-04T13:43:35.650110",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-04",
+      "source": "telegram",
+      "time": "13:43"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T10:34:29.989061"
+  },
+  {
+    "id": 32,
+    "content": "宇春：SC、LC待確認",
+    "timestamp": "2026-02-04T14:39:38.512987",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-04",
+      "source": "telegram",
+      "time": "14:39"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T13:53:21.382080"
+  },
+  {
+    "id": 33,
+    "content": "1021南纖，追蹤PU26020036、PU26020013採單",
+    "timestamp": "2026-02-04T16:34:48.115800",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-04",
+      "source": "telegram",
+      "time": "16:34"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-05T10:28:52.277526"
+  },
+  {
+    "id": 34,
+    "content": "1029弘盟, MELINEX 339, 50UM, 1090MM, 6000M交期？",
+    "timestamp": "2026-02-04T16:59:28.337700",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-04",
+      "source": "telegram",
+      "time": "16:59"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T10:35:50.536464"
+  },
+  {
+    "id": 35,
+    "content": "回覆華紙本月用量預估",
+    "timestamp": "2026-02-05T10:29:26.179209",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-05",
+      "source": "telegram",
+      "time": "10:29"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T10:35:21.421450"
+  },
+  {
+    "id": 36,
+    "content": "1029弘盟, TFW50：MELINEX 339, 50UM, 1090MM, 6000M交期？尚未回覆",
+    "timestamp": "2026-02-09T14:46:56",
+    "metadata": {
+      "status": "",
+      "category": "memo",
+      "date": "2026-02-10"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:30:11"
+  },
+  {
+    "id": 37,
+    "content": "大洋靜電先要樣張",
+    "timestamp": "2026-02-05T10:59:21.524566",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-05",
+      "source": "telegram",
+      "time": "10:59"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:01:57"
+  },
+  {
+    "id": 38,
+    "content": "翔緯2月底回覆品質異常",
+    "timestamp": "2026-02-07T21:53:39",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-05",
+      "source": "telegram",
+      "time": "13:02",
+      "tags": [
+        "李總"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "content": "宇春四月到港單價0.88USD/KG",
+    "timestamp": "2026-02-05T13:10:08.468921",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-05",
+      "source": "telegram",
+      "time": "13:10"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T10:58:29.022965"
+  },
+  {
+    "id": 40,
+    "content": "爭取折40美金，待確認。",
+    "timestamp": "2026-02-05T15:01:19.546460",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-05",
+      "source": "telegram",
+      "time": "15:01"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T08:47:06.160733"
+  },
+  {
+    "id": 41,
+    "content": "大洋靜電膜要樣捲測試",
+    "timestamp": "2026-02-06T08:45:52.319230",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-06",
+      "source": "telegram",
+      "time": "08:45"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-06T10:52:12.359643"
+  },
+  {
+    "id": 42,
+    "content": "大洋靜電膜樣張2/10提供",
+    "timestamp": "2026-02-07T21:53:32",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-06",
+      "source": "telegram",
+      "time": "10:51",
+      "tags": [
+        "李總"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T08:26:07"
+  },
+  {
+    "id": 43,
+    "content": "3025長虹：V25B03保固規範待品保及研發回覆",
+    "timestamp": "2026-02-13T08:17:45",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-06",
+      "source": "telegram",
+      "tags": [
+        "品保"
+      ],
+      "time": "15:16",
+      "completed": true,
+      "status": "done"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T08:17:48"
+  },
+  {
+    "id": 44,
+    "content": "2/10追蹤棕立PU26020042能否如期交貨？\n3月初才能交貨",
+    "timestamp": "2026-02-13T08:17:28",
+    "metadata": {
+      "category": "memo",
+      "date": "2026-02-10",
+      "status": "done",
+      "completed": true
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T08:17:30"
+  },
+  {
+    "id": 45,
+    "content": "睡覺",
+    "timestamp": "2026-02-06T23:37:08",
+    "metadata": {
+      "status": "done",
+      "category": "personal"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T00:30:09"
+  },
+  {
+    "id": 46,
+    "content": "去借書和台中costco",
+    "timestamp": "2026-02-07T22:03:16",
+    "metadata": {
+      "tags": [
+        "家庭"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:09:02"
+  },
+  {
+    "id": 47,
+    "content": "睡覺",
+    "timestamp": "2026-02-07T22:45:59",
+    "metadata": {
+      "tags": [
+        "健康"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:49:05"
+  },
+  {
+    "id": 48,
+    "content": "晾衣服",
+    "timestamp": "2026-02-07T22:49:38",
+    "metadata": {
+      "tags": [
+        "生活"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:51:18"
+  },
+  {
+    "id": 49,
+    "content": "測試",
+    "timestamp": "2026-02-07T22:50:35",
+    "metadata": {
+      "tags": [
+        "123"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:51:21"
+  },
+  {
+    "id": 50,
+    "content": "KOPP60核價",
+    "timestamp": "2026-02-09T10:45:26",
+    "metadata": {
+      "status": "",
+      "category": "#供應商",
+      "date": ""
+    }
+  },
+  {
+    "id": 51,
+    "content": "CBPW12核價",
+    "timestamp": "2026-02-09T10:46:37",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    }
+  },
+  {
+    "id": 52,
+    "content": "剪指甲",
+    "timestamp": "2026-02-09T10:48:35",
+    "metadata": {
+      "status": "",
+      "category": "#生活",
+      "date": "2026-02-09"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:30:36"
+  },
+  {
+    "id": 53,
+    "content": "PU26010111\nPU26010095\n交期追蹤，預計3/5生產",
+    "timestamp": "2026-02-09T14:45:48",
+    "metadata": {
+      "status": "",
+      "category": "#供應商",
+      "date": ""
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-09T16:30:37"
+  },
+  {
+    "id": 54,
+    "content": "TFW50交期詢問",
+    "timestamp": "2026-02-09T14:46:23",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-09T14:46:34"
+  },
+  {
+    "id": 55,
+    "content": "信用卡繳款(本日到期)",
+    "timestamp": "2026-02-09T16:31:06",
+    "metadata": {
+      "status": "",
+      "category": "#生活",
+      "date": ""
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:30:38"
+  },
+  {
+    "id": 56,
+    "content": "長虹保固期詢問研發品保",
+    "timestamp": "2026-02-13T08:17:34",
+    "metadata": {
+      "category": "",
+      "date": "",
+      "status": "done",
+      "completed": true
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T08:17:37"
+  },
+  {
+    "id": 57,
+    "content": "久立美發會議記錄給大家",
+    "timestamp": "2026-02-13T08:17:22",
+    "metadata": {
+      "category": "#供應商",
+      "date": "2026-02-11",
+      "status": "done",
+      "completed": true
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T08:17:24"
+  },
+  {
+    "id": 58,
+    "content": "聯絡廣洲雄星，詢問聯絡資料(海外業務窗口)",
+    "timestamp": "2026-02-12T16:14:53",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    }
+  },
+  {
+    "id": 59,
+    "content": "詢問聯華塑業聯絡窗口",
+    "timestamp": "2026-02-12T16:15:10",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    }
+  },
+  {
+    "id": 60,
+    "content": "雙週品質異常回覆",
+    "timestamp": "2026-02-13T16:22:49",
+    "metadata": {
+      "category": "#品保",
+      "date": "",
+      "status": "done",
+      "completed": true
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T16:22:52"
+  },
+  {
+    "id": 61,
+    "content": "KOPP60保險理賠結果通知",
+    "timestamp": "2026-02-13T16:27:06",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    }
+  }
+]
