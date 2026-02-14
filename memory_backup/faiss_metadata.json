@@ -2,13 +2,18 @@
   {
     "id": 0,
     "content": "今天的美金匯率查詢",
-    "timestamp": "2026-02-06T23:41:28",
+    "timestamp": "2026-02-07T22:58:39",
     "metadata": {
       "category": "finance",
-      "date": "2026-02-03",
       "completed": true,
-      "status": "done"
-    }
+      "date": "2026-03-02",
+      "status": "done",
+      "tags": [
+        "必做"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:32:03"
   },
   {
     "id": 1,
@@ -105,22 +110,34 @@
   {
     "id": 9,
     "content": "貫婷HTKT75J#1R改善報告",
-    "timestamp": "2026-02-03T22:58:39.831300",
+    "timestamp": "2026-02-07T21:37:30",
     "metadata": {
       "category": "reports",
+      "person": "貫婷",
       "project": "HTKT75J#1R",
-      "person": "貫婷"
-    }
+      "tags": [
+        "品保"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T21:39:07"
   },
   {
     "id": 10,
     "content": "YCPW78找華紙要報告",
-    "timestamp": "2026-02-03T22:58:39.831362",
+    "timestamp": "2026-02-10T08:51:59",
     "metadata": {
       "category": "reports",
+      "completed": true,
       "project": "YCPW78",
-      "supplier": "華紙"
-    }
+      "status": "done",
+      "supplier": "華紙",
+      "tags": [
+        "品保"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T08:52:01"
   },
   {
     "id": 11,
@@ -137,15 +154,21 @@
   {
     "id": 12,
     "content": "華紙對帳單匯款費告知給宜瑾，每月1號，若遇假日延後至週一",
-    "timestamp": "2026-02-06T23:41:10",
+    "timestamp": "2026-02-07T22:59:40",
     "metadata": {
       "category": "finance",
       "company": "華紙",
-      "person": "宜瑾",
-      "type": "recurring_task",
       "completed": true,
-      "status": "done"
-    }
+      "person": "宜瑾",
+      "status": "done",
+      "tags": [
+        "結帳"
+      ],
+      "type": "recurring_task",
+      "date": "2026-03-02"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T08:52:05"
   },
   {
     "id": 13,
@@ -189,24 +212,36 @@
   {
     "id": 16,
     "content": "3012 南亞待提供對帳單",
-    "timestamp": "2026-02-03T22:59:37.769188",
+    "timestamp": "2026-02-07T21:37:59",
     "metadata": {
       "category": "finance",
-      "status": "pending",
       "client_id": "3012",
-      "client_name": "南亞"
-    }
+      "client_name": "南亞",
+      "status": "pending",
+      "tags": [
+        "結帳"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:30:05"
   },
   {
     "id": 17,
     "content": "貫婷 HTKT75J#1R 穎昌需要改善報告",
-    "timestamp": "2026-02-03T22:59:37.769270",
+    "timestamp": "2026-02-09T09:14:15",
     "metadata": {
       "category": "reports",
-      "project": "HTKT75J#1R",
       "person": "貫婷",
-      "type": "improvement_report"
-    }
+      "project": "HTKT75J#1R",
+      "tags": [
+        "品保"
+      ],
+      "type": "improvement_report",
+      "completed": true,
+      "status": "done"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-09T09:14:24"
   },
   {
     "id": 18,
@@ -217,7 +252,9 @@
       "project": "YCPW78",
       "supplier": "華紙",
       "type": "report_request"
-    }
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T21:53:47"
   },
   {
     "id": 19,
@@ -236,12 +273,15 @@
   {
     "id": 20,
     "content": "小珮小橘燈 Facebook 分享連結 https://www.facebook.com/share/r/1AuRhJPWWq/?mibextid=wwXIfr",
-    "timestamp": "2026-02-03T22:59:37.769507",
+    "timestamp": "2026-02-07T22:02:15",
     "metadata": {
       "category": "social_media",
       "person": "小珮",
       "platform": "facebook",
-      "type": "link"
+      "type": "link",
+      "tags": [
+        "家人"
+      ]
     }
   },
   {
@@ -296,12 +336,15 @@
   {
     "id": 25,
     "content": "大洋靜電膜要樣捲測試",
-    "timestamp": "2026-02-04T08:33:10.546794",
+    "timestamp": "2026-02-07T22:02:07",
     "metadata": {
       "category": "memo",
       "date": "2026-02-04",
       "source": "telegram",
-      "time": "08:33"
+      "time": "08:33",
+      "tags": [
+        "李總"
+      ]
     }
   },
   {
@@ -439,14 +482,15 @@
   },
   {
     "id": 36,
-    "content": "1029弘盟, MELINEX 339, 50UM, 1090MM, 6000M交期？尚未回覆",
-    "timestamp": "2026-02-05T10:30:34.925790",
+    "content": "1029弘盟, TFW50：MELINEX 339, 50UM, 1090MM, 6000M交期？尚未回覆",
+    "timestamp": "2026-02-09T14:46:56",
     "metadata": {
+      "status": "",
       "category": "memo",
-      "date": "2026-02-05",
-      "source": "telegram",
-      "time": "10:30"
-    }
+      "date": "2026-02-10"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:30:11"
   },
   {
     "id": 37,
@@ -457,17 +501,22 @@
       "date": "2026-02-05",
       "source": "telegram",
       "time": "10:59"
-    }
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:01:57"
   },
   {
     "id": 38,
     "content": "翔緯2月底回覆品質異常",
-    "timestamp": "2026-02-05T13:02:22.531784",
+    "timestamp": "2026-02-07T21:53:39",
     "metadata": {
       "category": "memo",
       "date": "2026-02-05",
       "source": "telegram",
-      "time": "13:02"
+      "time": "13:02",
+      "tags": [
+        "李總"
+      ]
     }
   },
   {
@@ -512,35 +561,49 @@
   {
     "id": 42,
     "content": "大洋靜電膜樣張2/10提供",
-    "timestamp": "2026-02-06T10:51:19.834707",
+    "timestamp": "2026-02-07T21:53:32",
     "metadata": {
       "category": "memo",
       "date": "2026-02-06",
       "source": "telegram",
-      "time": "10:51"
-    }
+      "time": "10:51",
+      "tags": [
+        "李總"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T08:26:07"
   },
   {
     "id": 43,
     "content": "3025長虹：V25B03保固規範待品保及研發回覆",
-    "timestamp": "2026-02-06T15:16:40.802959",
+    "timestamp": "2026-02-13T08:17:45",
     "metadata": {
       "category": "memo",
       "date": "2026-02-06",
       "source": "telegram",
-      "time": "15:16"
-    }
+      "tags": [
+        "品保"
+      ],
+      "time": "15:16",
+      "completed": true,
+      "status": "done"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T08:17:48"
   },
   {
     "id": 44,
-    "content": "2/10追蹤棕立PU26020042能否如期交貨？，如果不確定，問小林",
-    "timestamp": "2026-02-06T16:06:39.817196",
+    "content": "2/10追蹤棕立PU26020042能否如期交貨？\n3月初才能交貨",
+    "timestamp": "2026-02-13T08:17:28",
     "metadata": {
       "category": "memo",
-      "date": "2026-02-06",
-      "source": "telegram",
-      "time": "16:06"
-    }
+      "date": "2026-02-10",
+      "status": "done",
+      "completed": true
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T08:17:30"
   },
   {
     "id": 45,
@@ -552,5 +615,190 @@
     },
     "deleted": true,
     "deleted_at": "2026-02-07T00:30:09"
+  },
+  {
+    "id": 46,
+    "content": "去借書和台中costco",
+    "timestamp": "2026-02-07T22:03:16",
+    "metadata": {
+      "tags": [
+        "家庭"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:09:02"
+  },
+  {
+    "id": 47,
+    "content": "睡覺",
+    "timestamp": "2026-02-07T22:45:59",
+    "metadata": {
+      "tags": [
+        "健康"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:49:05"
+  },
+  {
+    "id": 48,
+    "content": "晾衣服",
+    "timestamp": "2026-02-07T22:49:38",
+    "metadata": {
+      "tags": [
+        "生活"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:51:18"
+  },
+  {
+    "id": 49,
+    "content": "測試",
+    "timestamp": "2026-02-07T22:50:35",
+    "metadata": {
+      "tags": [
+        "123"
+      ]
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-07T22:51:21"
+  },
+  {
+    "id": 50,
+    "content": "KOPP60核價",
+    "timestamp": "2026-02-09T10:45:26",
+    "metadata": {
+      "status": "",
+      "category": "#供應商",
+      "date": ""
+    }
+  },
+  {
+    "id": 51,
+    "content": "CBPW12核價",
+    "timestamp": "2026-02-09T10:46:37",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    }
+  },
+  {
+    "id": 52,
+    "content": "剪指甲",
+    "timestamp": "2026-02-09T10:48:35",
+    "metadata": {
+      "status": "",
+      "category": "#生活",
+      "date": "2026-02-09"
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:30:36"
+  },
+  {
+    "id": 53,
+    "content": "PU26010111\nPU26010095\n交期追蹤，預計3/5生產",
+    "timestamp": "2026-02-09T14:45:48",
+    "metadata": {
+      "status": "",
+      "category": "#供應商",
+      "date": ""
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-09T16:30:37"
+  },
+  {
+    "id": 54,
+    "content": "TFW50交期詢問",
+    "timestamp": "2026-02-09T14:46:23",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-09T14:46:34"
+  },
+  {
+    "id": 55,
+    "content": "信用卡繳款(本日到期)",
+    "timestamp": "2026-02-09T16:31:06",
+    "metadata": {
+      "status": "",
+      "category": "#生活",
+      "date": ""
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-10T06:30:38"
+  },
+  {
+    "id": 56,
+    "content": "長虹保固期詢問研發品保",
+    "timestamp": "2026-02-13T08:17:34",
+    "metadata": {
+      "category": "",
+      "date": "",
+      "status": "done",
+      "completed": true
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T08:17:37"
+  },
+  {
+    "id": 57,
+    "content": "久立美發會議記錄給大家",
+    "timestamp": "2026-02-13T08:17:22",
+    "metadata": {
+      "category": "#供應商",
+      "date": "2026-02-11",
+      "status": "done",
+      "completed": true
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T08:17:24"
+  },
+  {
+    "id": 58,
+    "content": "聯絡廣洲雄星，詢問聯絡資料(海外業務窗口)",
+    "timestamp": "2026-02-12T16:14:53",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    }
+  },
+  {
+    "id": 59,
+    "content": "詢問聯華塑業聯絡窗口",
+    "timestamp": "2026-02-12T16:15:10",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    }
+  },
+  {
+    "id": 60,
+    "content": "雙週品質異常回覆",
+    "timestamp": "2026-02-13T16:22:49",
+    "metadata": {
+      "category": "#品保",
+      "date": "",
+      "status": "done",
+      "completed": true
+    },
+    "deleted": true,
+    "deleted_at": "2026-02-13T16:22:52"
+  },
+  {
+    "id": 61,
+    "content": "KOPP60保險理賠結果通知",
+    "timestamp": "2026-02-13T16:27:06",
+    "metadata": {
+      "status": "",
+      "category": "",
+      "date": ""
+    }
   }
 ]
