@@ -1,7 +1,8 @@
-﻿{
-    "hourKey":  "2026021403",
-    "consecutiveFail":  1,
-    "windowStart":  "2026-02-14T05:01:28.5380489+08:00",
-    "failCount":  1,
-    "lastFail":  "2026-02-14T05:01:28.5380489+08:00"
+{
+    "hourKey": "2026021414",
+    "consecutiveFail": 0,
+    "windowStart": "2026-02-14T14:00:00+08:00",
+    "failCount": 0,
+    "lastCheck": "2026-02-14T14:00:00+08:00",
+    "status": "healthy"
 }
